@@ -1,11 +1,5 @@
 from telepot.namedtuple import ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton
 import pickle
-import lxml.html as html
-import urllib.request
-from selenium import webdriver
-import re
-import pprint
-
 
 class UsersHandle:
     """
