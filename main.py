@@ -7,7 +7,7 @@ from functions import build_inline_keyboard, build_keyboard
 import asyncio
 import time
 
-TOKEN = '241137306:AAGv5VtqCUWF6IkVDPSS156ulFPxZJxGBQk'
+TOKEN = ''
 
 
 def build_text_schedule(msg):
